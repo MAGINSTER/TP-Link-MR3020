@@ -27,3 +27,8 @@ In short: hold the RESET/WPS button while powering on the device, run a TFTP ser
 ## Warning
 
 ⚠️ Flashing is done at your own risk. An incorrect firmware or a power loss during the process may render the device inoperable.
+
+Video instructions:
+https://youtu.be/I5PSXwQ-GoA
+https://rutube.ru/video/private/aa385e46797a7de9f1f5cfa6f6f4784f/?p=dYtD3NQnxpJyHjc8QRHLuQ
+https://vkvideo.ru/video-240166090_456239072?list=4vdv2ra6ysfiycei
