@@ -27,3 +27,8 @@
 ## 警告
 
 ⚠️ 刷机风险自负。错误的固件或刷机过程中断电可能导致设备无法使用。
+
+视频说明:
+https://youtu.be/I5PSXwQ-GoA
+https://rutube.ru/video/private/aa385e46797a7de9f1f5cfa6f6f4784f/?p=dYtD3NQnxpJyHjc8QRHLuQ
+https://vkvideo.ru/video-240166090_456239072?list=4vdv2ra6ysfiycei
