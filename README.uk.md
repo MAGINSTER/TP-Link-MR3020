@@ -27,3 +27,8 @@
 ## Попередження
 
 ⚠️ Перепрошивка виконується на власний ризик. Неправильна прошивка або відключення живлення в процесі може призвести до непрацездатності пристрою.
+
+Відеоінструкції:
+https://youtu.be/I5PSXwQ-GoA
+https://rutube.ru/video/private/aa385e46797a7de9f1f5cfa6f6f4784f/?p=dYtD3NQnxpJyHjc8QRHLuQ
+https://vkvideo.ru/video-240166090_456239072?list=4vdv2ra6ysfiycei
