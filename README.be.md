@@ -27,3 +27,8 @@
 ## Папярэджанне
 
 ⚠️ Перапрашыўка выконваецца на ваш уласны рызык. Няправільная прашыўка альбо адключэнне сілкавання ў працэсе можа прывесці да непрацаздольнасці прылады.
+
+Відэаінструкцыі:
+https://youtu.be/I5PSXwQ-GoA
+https://rutube.ru/video/private/aa385e46797a7de9f1f5cfa6f6f4784f/?p=dYtD3NQnxpJyHjc8QRHLuQ
+https://vkvideo.ru/video-240166090_456239072?list=4vdv2ra6ysfiycei
